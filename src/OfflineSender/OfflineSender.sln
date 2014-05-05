@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfflineSender", "OfflineSender\OfflineSender.csproj", "{A20AF68E-179D-4961-96D6-95935A33ECB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfflineSender.Test", "OfflineSender.Test\OfflineSender.Test.csproj", "{32151A7C-B6FE-4AFA-82D4-6A323120AAD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A20AF68E-179D-4961-96D6-95935A33ECB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20AF68E-179D-4961-96D6-95935A33ECB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20AF68E-179D-4961-96D6-95935A33ECB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20AF68E-179D-4961-96D6-95935A33ECB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32151A7C-B6FE-4AFA-82D4-6A323120AAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32151A7C-B6FE-4AFA-82D4-6A323120AAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32151A7C-B6FE-4AFA-82D4-6A323120AAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32151A7C-B6FE-4AFA-82D4-6A323120AAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
